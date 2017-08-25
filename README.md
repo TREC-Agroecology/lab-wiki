@@ -6,4 +6,4 @@ for general lab operations at TREC. Early project development could also happen 
 Continued development of projects should ocurr on a project specific repository hosted by
 TREC Agroecology.
 
-For more information about our lab, please visit http://www.trec.ifas.ufl.edu/brym
+For more information about our lab, please visit http://trec.ifas.ufl.edu/brym
